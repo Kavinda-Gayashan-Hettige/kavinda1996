@@ -9,7 +9,7 @@
 ## 💼 About Me
 
 - 💻 I love working on **Java**, **Spring Boot**, **Angular**, and **JavaFX** projects  
-- 🔭 I’m currently working on:  
+- 🔭 I previously worked on:  
   - **Employee Management System** (Angular + Spring Boot)  
   - **Customer Full-Stack App**  
   - **JavaFX-based POS System**  
